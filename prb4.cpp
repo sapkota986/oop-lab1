@@ -46,4 +46,5 @@ int main()
         E[i].calculate();
         E[i].getdata();
     }
+    return 0;
 }
